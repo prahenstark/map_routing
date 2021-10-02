@@ -1,16 +1,36 @@
-# map_routing
+<h1 align="center"><i>Map Routing In Flutter</i></h1>
 
-A new Flutter application.
+<hr>
 
-## Getting Started
+<!-- <hr> -->
 
-This project is a starting point for a Flutter application.
+<h2 align="center">About</h2>
+<p align="center"><i>It is built using Flutter and Google map APIs. I used packages from <code>pub.dev</code>.</i>
+  
+<br>
+ You can find the details about the packages in pubspec.yml and details of APIs in androidManifest.
+  
+<br>
+  It's for learning so bear with the hard codes 😐.
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## Details 🚀
+1. Render your real time location. (Added some hard coded markers.)  🚀
+2. Each card has it's respective longitude and latitude associated with it (you can find it in main.dart).
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Required Improvements ✅➕
+1. When someone tap on the card below I want to create a route to that location (longitude, latitude).
+2. Need to render real time position of the user when the user moves through that route (like Google maps). 
+3. You're welcome to modify the UI.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## Want to collaborate and enhance this project?
+- Fork the repository. 🍴
+- Create a issue in the current repository about your issue. 💭
+- Add your enhancement. ✔️
+- Create a Pull Request with proper comments and description. ☑️
+- Wait for your PR to get merged after reviewing. 🕰️
+
+
+<p align="center"> Built by Prahen Parija </p>
