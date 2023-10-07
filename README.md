@@ -19,9 +19,11 @@
 2. Each card has it's respective longitude and latitude associated with it refer ➡ main.dart.
 
 ## Required Improvements ✅➕
-1. When someone tap on the card below I wanna create a route to the location associated with its respective longitude and latitude.📶
-2. Need to render real time position of the user when the user moves through that route as similar as Google maps. 🌐
-3. You're welcome to modify the UI.🚹
+1.User Interaction: 📲 When a user taps on the card, initiate the process of creating a real-time navigation route to a specific destination determined by its latitude and longitude.
+
+2.Real-Time Position Updates: 🚀 Continuously track and display the user's current location as they progress along the generated route, providing a navigation experience similar to Google Maps.
+
+3.UI Enhancement: 🎨 Feel free to modify and improve the user interface (UI) as required to enhance the overall user experience. This can include design changes or additional features. 🚹🌐📍
 
 
 
