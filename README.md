@@ -23,7 +23,7 @@
 
 2.Real-Time Position Updates: 🚀 Continuously track and display the user's current location as they progress along the generated route, providing a navigation experience similar to Google Maps.
 
-3.UI Enhancement: 🎨 Feel free to modify and improve the user interface (UI) as required to enhance the overall user experience. This can include design changes or additional features. 🚹🌐📍
+3.UI Enhancement: 🎨 Feel free to modify and improve the user interface (UI) as required to enhance the overall user experience. This can include design changes or additional features.🚹🌐📍
 
 
 
